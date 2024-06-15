@@ -1,0 +1,1070 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "RTO Circle"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.58082270622253,
+              23.068610164638223
+            ],
+            [
+              72.58091658353806,
+              23.06833377863158
+            ],
+            [
+              72.5812840461731,
+              23.06824987562435
+            ],
+            [
+              72.58172124624252,
+              23.06802777917619
+            ],
+            [
+              72.58210748434067,
+              23.068397939719436
+            ],
+            [
+              72.5822040438652,
+              23.068701470604914
+            ],
+            [
+              72.58196264505386,
+              23.069128386870233
+            ],
+            [
+              72.58162468671799,
+              23.069056822966523
+            ],
+            [
+              72.58120894432068,
+              23.068763163790585
+            ],
+            [
+              72.58082270622253,
+              23.068610164638223
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Visat Circle"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.58788228034973,
+              23.098340552510212
+            ],
+            [
+              72.58802175521849,
+              23.097782967771426
+            ],
+            [
+              72.5887942314148,
+              23.098069161997227
+            ],
+            [
+              72.58852601051329,
+              23.09868102346934
+            ],
+            [
+              72.58788228034973,
+              23.098340552510212
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Visat Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58830338716506,
+          23.098212258881496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "RTO Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58170247077942,
+          23.068583019609136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Shamal Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58553266525269,
+          23.090252879975658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Modi Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.59169638156891,
+          23.086699874214617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Torrent Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.59200751781464,
+          23.07345423075776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chandkheda Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58488960564135,
+          23.10914206647773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Chandkheda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.58513301610947,
+              23.109301803698493
+            ],
+            [
+              72.58459657430649,
+              23.10921792626263
+            ],
+            [
+              72.58467435836792,
+              23.108961359662977
+            ],
+            [
+              72.58521348237991,
+              23.10905017123372
+            ],
+            [
+              72.58513301610947,
+              23.109301803698493
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "VGEC Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.59744703769684,
+          23.10544955505278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "VGEC Circle"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.59709298610687,
+              23.10559387759977
+            ],
+            [
+              72.59734511375427,
+              23.105095532421654
+            ],
+            [
+              72.5978171825409,
+              23.105386645176065
+            ],
+            [
+              72.59752750396729,
+              23.10586031881752
+            ],
+            [
+              72.59709298610687,
+              23.10559387759977
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Ashram Circle"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.58251786231995,
+              23.066288010980884
+            ],
+            [
+              72.58297920227051,
+              23.06568587320194
+            ],
+            [
+              72.58382678031921,
+              23.066278139891473
+            ],
+            [
+              72.58340835571289,
+              23.067541633448926
+            ],
+            [
+              72.58271098136902,
+              23.06704808269026
+            ],
+            [
+              72.58251786231995,
+              23.066288010980884
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ashram Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58312806487082,
+          23.066302817613625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Police Headquarters"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.58713126182556,
+              23.05811943687278
+            ],
+            [
+              72.58730560541153,
+              23.057761587698725
+            ],
+            [
+              72.58778303861618,
+              23.057907195408493
+            ],
+            [
+              72.58757382631302,
+              23.0582132178783
+            ],
+            [
+              72.58713126182556,
+              23.05811943687278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Police Headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58744910359383,
+          23.05797321241144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Riverfront Park"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.58511424064636,
+              23.05887461890391
+            ],
+            [
+              72.58486211299896,
+              23.058647571156996
+            ],
+            [
+              72.58508741855621,
+              23.058484688841748
+            ],
+            [
+              72.58533954620361,
+              23.058721608507852
+            ],
+            [
+              72.58511424064636,
+              23.05887461890391
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Riverfront Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5850760191679,
+          23.05866793143255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Dadhichi Circle"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.58035868406296,
+              23.051843364778836
+            ],
+            [
+              72.58097559213638,
+              23.05119180140381
+            ],
+            [
+              72.58174806833267,
+              23.051974170682428
+            ],
+            [
+              72.58076637983322,
+              23.052304886928454
+            ],
+            [
+              72.58035868406296,
+              23.051843364778836
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dadhichi Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58093535900116,
+          23.051840896741695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Ranip Circle"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.57141888141632,
+              23.067363955384373
+            ],
+            [
+              72.57203578948975,
+              23.067363955384373
+            ],
+            [
+              72.57203578948975,
+              23.067845166266363
+            ],
+            [
+              72.57141888141632,
+              23.067845166266363
+            ],
+            [
+              72.57141888141632,
+              23.067363955384373
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ranip Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.57169246673584,
+          23.067642811130835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Dandi Kuch Circle"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.57135450839996,
+              23.056648547289832
+            ],
+            [
+              72.57126331329344,
+              23.054832124551858
+            ],
+            [
+              72.57191240787506,
+              23.054841996480807
+            ],
+            [
+              72.57309257984161,
+              23.055903224620657
+            ],
+            [
+              72.57287800312042,
+              23.056342521262753
+            ],
+            [
+              72.57135450839996,
+              23.056648547289832
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dandi Kuch Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.57183194160461,
+          23.055720595257693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Delhi Darwaja"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.58771598339081,
+              23.03851777313271
+            ],
+            [
+              72.58736193180084,
+              23.037451471386145
+            ],
+            [
+              72.58840262889862,
+              23.037150338346258
+            ],
+            [
+              72.5885421037674,
+              23.038394359010557
+            ],
+            [
+              72.58771598339081,
+              23.03851777313271
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Delhi Darwaja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58796811103821,
+          23.03798462331429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Shahpur Chakla"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.57951378822327,
+              23.039682796875056
+            ],
+            [
+              72.57952988147736,
+              23.03911015934539
+            ],
+            [
+              72.58001804351807,
+              23.039001555401395
+            ],
+            [
+              72.5799697637558,
+              23.039623558622793
+            ],
+            [
+              72.57951378822327,
+              23.039682796875056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Shahpur Chakla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.57974445819855,
+          23.039366859228647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Rupali Circle"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.57936224341393,
+              23.027391535794163
+            ],
+            [
+              72.5793930888176,
+              23.0271804801526
+            ],
+            [
+              72.57961973547935,
+              23.02719158835251
+            ],
+            [
+              72.57960766553879,
+              23.027406346703962
+            ],
+            [
+              72.57936224341393,
+              23.027391535794163
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ruplai Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.57949367165565,
+          23.027302670301147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Relief Road"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.58120894432068,
+              23.026664564971018
+            ],
+            [
+              72.58122503757477,
+              23.026348596803548
+            ],
+            [
+              72.5815898180008,
+              23.026323911759274
+            ],
+            [
+              72.58148789405823,
+              23.026674438964328
+            ],
+            [
+              72.58120894432068,
+              23.026664564971018
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Relief Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58135914802551,
+          23.026468319204152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Lal Darwaja Circle"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.57922679185867,
+              23.021999022237225
+            ],
+            [
+              72.57969751954079,
+              23.021947181966627
+            ],
+            [
+              72.5797551870346,
+              23.02228908052649
+            ],
+            [
+              72.57928714156151,
+              23.022315000598553
+            ],
+            [
+              72.57922679185867,
+              23.021999022237225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lal Darwaja Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.57953524589539,
+          23.022107639882453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "AMTS Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5906328856945,
+          23.090148018303573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kalupur Fruit market Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.59878478944302,
+          23.031269470107596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Vijay Chowk (Bapunagar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.63066083192825,
+          23.038658465094066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bapunagar Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.62974619865417,
+          23.035017704770787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Yashwant House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.66837000846863,
+          23.042387982639088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Khodiyar Mandir Rd (Nikol)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6630873978138,
+          23.041226684638637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Thakkkar Nagar Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.64031879603863,
+          23.038866725951376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nutan Mill Asarwa Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6122260093689,
+          23.036513513799445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Express Way ",
+        "bridge": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.62863039970397,
+          22.988323336006548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "JashodaNagar Cross",
+        "bridge": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.62298502027988,
+          22.98313174334313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CTM Char Rasta",
+        "bridge": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6327945291996,
+          22.992900846480214
+        ]
+      }
+    }
+  ]
+}
