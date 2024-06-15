@@ -62,14 +62,15 @@ This app is designed to allow smart switching of traffic signals for Emergency V
 
 
 ### NOTE
+1.  More Technical Details are mentioned in README.md in folder PythonMain_Working_gui_implemented_with_function.
 
-1.  This code is only implimented for 1 emergency vehicle
+2.  This code is only implimented for 1 emergency vehicle at a time only.
 
-2.  Traffic simulation is controlled by random number generator and is not the actual representation of traffic occurance on the roads
+3.  Traffic simulation is controlled by random number generator and is not the actual representation of traffic occurance on the roads.
 
-3.  Mobile application is made in kodular with email : rrohit22896@gmail.com on the Kodular version Eagle (current available kodular version is Fennix)
+4.  Mobile application is made in kodular with email : rrohit22896@gmail.com on the Kodular version Eagle (current available kodular version is Fennix)
     in Eagle version we can use google map for free but in later version ie Fennix this map feature was not available for free some expected features like
-    (driver nofication of next signal, show signals in route, start firebase to start journey wasn't implemented (bcz I wanted to use a JourneyState flag for this[see firebase output])) were not implemented in app because doing modification in app and then downloading will come with new map feature restrictions 
+    (driver nofication of next signal, show signals in route, start firebase to start journey wasn't implemented (bcz I wanted to use a JourneyState flag for this[see firebase output])) were not implemented in app because doing modification in app and then downloading will come with new map feature restrictions.
 
 5.  Realtime Firebase Database was implimented on email : esp32.2.rohit@gmail.com
 
